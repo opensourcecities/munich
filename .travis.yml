@@ -8,5 +8,8 @@ before_script:
   - gem install awesome_bot
   - gem install danger
 
+script:
+  - echo "Travis CI build finished."
+
 notifications:
   email: false
