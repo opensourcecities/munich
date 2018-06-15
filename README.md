@@ -1,4 +1,4 @@
-# Open Source Munich
+# Open Source Munich [![Build Status](https://travis-ci.org/opensourcecities/munich.svg?branch=master)](https://travis-ci.org/opensourcecities/munich)
 
 > A directory of companies, people, and projects that are Open Source and from Munich (Germany) :beer:
 
