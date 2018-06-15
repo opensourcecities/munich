@@ -1,0 +1,18 @@
+# Travis CI
+language: ruby
+
+rvm:
+  - 2.2
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
+      --allow-dupe
+      --allow-ssl
+      --allow 302
+      --white-list https://github.com/opensourcecities/munich/issues/new,https://github.com/opensourcecities/munich.git
+
+notifications:
+  email: false
