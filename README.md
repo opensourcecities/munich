@@ -1,6 +1,21 @@
-# Open Source Munich [![Build Status](https://travis-ci.org/opensourcecities/munich.svg?branch=master)](https://travis-ci.org/opensourcecities/munich)
+# Open Source Munich [![Build Status](https://api.travis-ci.org/opensourcecities/munich.svg?branch=master)](https://travis-ci.org/opensourcecities/munich)
 
 > A directory of companies, people, and projects that are Open Source and from Munich (Germany) :beer:
+
+Visit our [**Website**](https://opensourcecities.github.io/munich/).
+
+## Table of Contents
+
+- [Background](#background)
+- [Projects](#projects)
+- [GitHub Organizations (Companies or Projects)](#github-organizations-companies-or-projects)
+- [Users with Open Source projects](#users-with-open-source-projects)
+- [Incubators, Schools, and Communities](#incubators-schools-and-communities)
+- [Other lists](#other-lists)
+- [Contribute](#contribute)
+- [Build](#build)
+- [Maintainers](#maintainers)
+- [License](#license)
 
 ## Background
 
@@ -16,7 +31,7 @@ These projects have been developed mainly in Munich, or by people from there.
 
 - [Animate a Name](https://github.com/SuriyaaKudoIsc/animate-a-name) - An unofficial Google Doodle by Suriyaa. [Website](https://animate-a-name.tk/)
 
-## GitHub Organizations
+## GitHub Organizations (Companies or Projects)
 
 - [The Jack's Dogs Family (JDSF)](https://github.com/jacksdogsfamily) - The JDSF is a syndicated comic strip made by The Jack's Dogs Family GmbH.
 
@@ -33,17 +48,44 @@ These projects have been developed mainly in Munich, or by people from there.
 
 - [OpenStreetMap Data Munich](https://github.com/moritz-biersack/OpenStreetMap-Data-Munich)
 
+## Contribute
+
+**Please do!**
+
+- If you know of any resources that aren't here, please read the [contribution guide](https://github.com/opensourcecities/munich/blob/master/CONTRIBUTING.md), open a PR and add them.
+- If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/munich/issues/new).
+- If you know a friend or two in another cities, please encourage them to contribute to their respective [cities](https://github.com/opensourcecities).
+
+If adding to the list, please keep the items alphabetized. Thank you.
+
+Thank you!
+
+## Build
+
+This site is built with [Hugo](https://gohugo.io/) and uses an external theme from [https://github.com/opensourcecities/osc-theme](https://github.com/opensourcecities/osc-theme) as submodule.
+
+- To run the site locally:
+
+```bash
+git clone --recurse-submodules https://github.com/opensourcecities/munich.git
+cd munich
+./binaries/hugo server
+```
+
+- To generate the site:
+
+```bash
+git clone --recurse-submodules https://github.com/opensourcecities/munich.git
+cd munich
+rm -rf public/
+./binaries/hugo
+```
+
 ## Maintainers
 
 This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
 
 [@SuriyaaKudoIsc](https://github.com/SuriyaaKudoIsc)
-
-## Contribute
-
-Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/Munich/issues/new).
-
-If adding to the list, please keep the items alphabetized. Thank you.
 
 ## License
 

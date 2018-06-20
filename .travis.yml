@@ -1,26 +1,32 @@
-# Travis CI
-language: ruby
-
-rvm:
-  - 2.2
-
-before_script:
-  - gem install awesome_bot
-  - gem install danger
-  - gem install bunto
-  - gem install jekyll
-
-script:
-  - jekyll build
-
 notifications:
   email: false
 
+language: ruby
+rvm:
+  - 2.2
+
+install:
+  - rm -rf public || exit 0
+
+before_script:
+  - gem install danger
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
+      --allow-dupe
+      --allow-ssl
+      --allow 302
+      --white-list https://github.com/opensourcecities/munich/issues/new,https://github.com/opensourcecities/munich.git
+  - danger
+  - binaries/hugo --theme=osc-theme
+  - echo 'Published at ' $(date) > public/README.md
+
 deploy:
   provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  local_dir: _site
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
   keep-history: true
   on:
     branch: master
