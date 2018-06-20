@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Organizations (Companies or Projects) on Open Source Cities - Munich</title>
+    <link>https://opensourcecities.github.io/munich/organizations/</link>
+    <description>Recent content in GitHub Organizations (Companies or Projects) on Open Source Cities - Munich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 11:45:16 -0400</lastBuildDate>
+    
+        <atom:link href="https://opensourcecities.github.io/munich/organizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Jack&#39;s Dogs Family (JDSF)</title>
+      <link>https://opensourcecities.github.io/munich/organizations/jacksdogsfamily/</link>
+      <pubDate>Tue, 19 Jun 2018 11:45:16 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/organizations/jacksdogsfamily/</guid>
+      <description>The JDSF is a syndicated comic strip made by The Jack&#39;s Dogs Family GmbH.</description>
+    </item>
+    
+  </channel>
+</rss>

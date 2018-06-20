@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Open Source Cities - Munich</title>
+    <link>https://opensourcecities.github.io/munich/projects/</link>
+    <description>Recent content in Projects on Open Source Cities - Munich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 11:46:22 -0400</lastBuildDate>
+    
+        <atom:link href="https://opensourcecities.github.io/munich/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animate a Name</title>
+      <link>https://opensourcecities.github.io/munich/projects/suriyaackudoisc-animate-a-name/</link>
+      <pubDate>Tue, 19 Jun 2018 11:46:22 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/projects/suriyaackudoisc-animate-a-name/</guid>
+      <description>An unofficial Google Doodle by Suriyaa.</description>
+    </item>
+    
+  </channel>
+</rss>

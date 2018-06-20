@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users with Open Source projects on Open Source Cities - Munich</title>
+    <link>https://opensourcecities.github.io/munich/users/</link>
+    <description>Recent content in Users with Open Source projects on Open Source Cities - Munich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 11:43:56 -0400</lastBuildDate>
+    
+        <atom:link href="https://opensourcecities.github.io/munich/users/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SuriyaaKudoIsc</title>
+      <link>https://opensourcecities.github.io/munich/users/suriyaakudoisc/</link>
+      <pubDate>Tue, 19 Jun 2018 11:43:56 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/users/suriyaakudoisc/</guid>
+      <description>Developer, student and entrepreneur at Technische Universität München (TUM)</description>
+    </item>
+    
+  </channel>
+</rss>

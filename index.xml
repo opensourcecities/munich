@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Cities - Munich</title>
+    <link>https://opensourcecities.github.io/munich/</link>
+    <description>Recent content on Open Source Cities - Munich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 11:49:21 -0400</lastBuildDate>
+    
+        <atom:link href="https://opensourcecities.github.io/munich/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStreetMap Data Munich</title>
+      <link>https://opensourcecities.github.io/munich/other/openstreetmap-data-munich/</link>
+      <pubDate>Tue, 19 Jun 2018 11:49:21 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/other/openstreetmap-data-munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TUM Campus App - TCA</title>
+      <link>https://opensourcecities.github.io/munich/incubators/tca-team/</link>
+      <pubDate>Tue, 19 Jun 2018 11:47:34 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/incubators/tca-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSCraftCamp</title>
+      <link>https://opensourcecities.github.io/munich/incubators/jscraftcamp/</link>
+      <pubDate>Tue, 19 Jun 2018 11:47:20 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/incubators/jscraftcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animate a Name</title>
+      <link>https://opensourcecities.github.io/munich/projects/suriyaackudoisc-animate-a-name/</link>
+      <pubDate>Tue, 19 Jun 2018 11:46:22 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/projects/suriyaackudoisc-animate-a-name/</guid>
+      <description>An unofficial Google Doodle by Suriyaa.</description>
+    </item>
+    
+    <item>
+      <title>The Jack&#39;s Dogs Family (JDSF)</title>
+      <link>https://opensourcecities.github.io/munich/organizations/jacksdogsfamily/</link>
+      <pubDate>Tue, 19 Jun 2018 11:45:16 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/organizations/jacksdogsfamily/</guid>
+      <description>The JDSF is a syndicated comic strip made by The Jack&#39;s Dogs Family GmbH.</description>
+    </item>
+    
+    <item>
+      <title>SuriyaaKudoIsc</title>
+      <link>https://opensourcecities.github.io/munich/users/suriyaakudoisc/</link>
+      <pubDate>Tue, 19 Jun 2018 11:43:56 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/users/suriyaakudoisc/</guid>
+      <description>Developer, student and entrepreneur at Technische Universität München (TUM)</description>
+    </item>
+    
+  </channel>
+</rss>

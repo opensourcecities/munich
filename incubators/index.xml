@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incubators, Schools, and Communities on Open Source Cities - Munich</title>
+    <link>https://opensourcecities.github.io/munich/incubators/</link>
+    <description>Recent content in Incubators, Schools, and Communities on Open Source Cities - Munich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 11:47:34 -0400</lastBuildDate>
+    
+        <atom:link href="https://opensourcecities.github.io/munich/incubators/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TUM Campus App - TCA</title>
+      <link>https://opensourcecities.github.io/munich/incubators/tca-team/</link>
+      <pubDate>Tue, 19 Jun 2018 11:47:34 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/incubators/tca-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSCraftCamp</title>
+      <link>https://opensourcecities.github.io/munich/incubators/jscraftcamp/</link>
+      <pubDate>Tue, 19 Jun 2018 11:47:20 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/munich/incubators/jscraftcamp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
