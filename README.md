@@ -69,7 +69,7 @@ This site is built with [Hugo](https://gohugo.io/) and uses an external theme fr
 ```bash
 git clone --recurse-submodules https://github.com/opensourcecities/munich.git
 cd munich
-./binaries/hugo server
+./hugow server
 ```
 
 - To generate the site:
@@ -78,7 +78,7 @@ cd munich
 git clone --recurse-submodules https://github.com/opensourcecities/munich.git
 cd munich
 rm -rf public/
-./binaries/hugo
+./hugow
 ```
 
 ## Maintainers
